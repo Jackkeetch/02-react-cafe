@@ -1,5 +1,4 @@
-import  css  from "./CafeInfo.module.css";
-
+import css from "./CafeInfo.module.css";
 
 const CafeInfo = () => {
   return (
@@ -10,6 +9,9 @@ const CafeInfo = () => {
       </p>
     </div>
   );
-};
+}
+
+
+
 
 export default CafeInfo;
